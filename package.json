@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilyfrancis/Leaderboard.git"
+    "url": "git+https://github.com/OLIPLICHE/Leaderboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lilyfrancis/Leaderboard/issues"
+    "url": "https://github.com/OLIPLICHE/Leaderboard/issues"
   },
-  "homepage": "https://github.com/lilyfrancis/Leaderboard#readme",
+  "homepage": "https://github.com/OLIPLICHE/Leaderboard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.2.0",
