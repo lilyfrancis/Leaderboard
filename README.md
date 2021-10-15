@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Leaderboard
-In this project, I set up a JavaScript for the Leaderboard list app, using webpack and ES6 features, notably modules. I develop a first working version of the app following a wireframe, but without styling. Also, you I consume the Leaderboard API using JavaScript async and await and add some styling.
-
-![Desktop-Images](./images/boardgame.png)
+This is a Javascript Leaderboard list app, using webpack and ES6 features. The first working version of the app was developed following a wireframe. Also, the Leaderboard API was consumed using JavaScript async and await and add some styling.
 
 # Built with
 - Webpack
@@ -16,7 +14,7 @@ In this project, I set up a JavaScript for the Leaderboard list app, using webpa
 - Storing data in the local storage
 
 ## Live Demo
-- [Live Demo Link](https://lilianfrancis/Leaderboard/dist/)
+- [Live Demo Link](https://lilianfrancis.com/Leaderboard/dist/)
 
 ## Getting started
 To get a local copy of this project, follow these simple steps
@@ -44,7 +42,7 @@ To get a local copy of this project, follow these simple steps
 - webpack
 
 ## Authors
-👤 **Lilian Francis**
+👤 **lilyfrancis Mavoungou Paka**
 - GitHub: [@githubhandle](https://github.com/lilyfrancis)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilianfrancis/)
 
